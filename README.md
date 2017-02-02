@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Discover Movies & TV shows app helps you to find popular, upcoming movies quickly. This app gives complete information about movies by providing search option to the user. It also gives an option to search TV shows and also displays currently running movies. More features in next update!
 
-You can use the [editor on GitHub](https://github.com/kumaranvaheesan/Discover-Movies-TV-Shows/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Legal Notice:
+This product uses the TMDb API but is not endorsed or certified by TMDb.
 
-### Markdown
+All information as well as poster, movie image and person imagery used within the App is obtained from the TMDb API. The TMDb Terms of Use apply (http://www.themoviedb.org/about/website-terms).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This app is neither responsible for the content, nor the availability or performance of the TMDb API data.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kumaranvaheesan/Discover-Movies-TV-Shows/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Icon made by Freepik from www.flaticon.com
